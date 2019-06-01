@@ -1,0 +1,122 @@
+body {
+    position: relative;
+}
+#section1
+{
+  padding-top:50px;
+  height:800px;
+  color: #fff;
+  background-color: #000000;
+  /*background-image: url('https://cdn.creativelive.com/fit/https%3A%2F%2Fcdn.creativelive.com%2Fagc%2Fcourses%2F5222-1.jpg/1600') ;
+  background-repeat: no-repeat;
+   background-origin: content-box;*/
+}
+#section2 {padding-top:50px;height:100%;color: #fff; background-color: #de7a22;}
+#section3 {padding-top:50px;height:100%;color: #fff; background-color: #F2D8A7;}
+#section5 {padding-top:50px;height:100%;color: #fff; background-color: #73503C;}
+#section4 {padding-top:50px;height:100%;color: #fff; background-color: #591E23;}
+#section6 {padding-top:50px;height:100%;color: #fff; background-color: #262626;}
+.input-group{
+  width:100%;
+}
+.cell{
+  border-radius: 25px;
+  min-height: 100%;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  /*background-color: #453C62;*/
+  /*background: #700D21;*/
+    padding: 20px;
+    width: 380px;
+    /*height: 150px;*/
+}
+
+.projHead{
+  background-color: #18233D;
+  background-image: url('../images/test.1.jpg');
+  border-radius: 25px 25px 0px 0px;
+  height : 75px;
+  width: inherit;
+}
+
+.projDesc{
+  background: #9BA4AB;
+  background-image: url('../images/test2.1.jpg');
+  height : 120px;
+  width: inherit;
+  position: relative;
+  color : #000000;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.descMeta{
+    position: absolute;
+    bottom: 0;
+    left:100px;
+}
+.projTool{
+  background: #425B79;
+  background-image: url('../images/test4.1.jpg');
+  border-radius: 0px 0px 25px 25px;
+  height : 75px;
+  width: inherit;
+}
+.certiHead{
+  background-color: #18233D;
+  background-image: url('../images/test6.jpg');
+  border-radius: 25px 25px 0px 0px;
+  height : 75px;
+  width: inherit;
+}
+.certiDesc{
+  background: #FFFFFF;
+  height : 250px;
+  width: inherit;
+  position: relative;
+}
+.certiUniv{
+  background: #425B79;
+  background-image: url('../images/test6.jpg');
+  border-radius: 0px 0px 25px 25px;
+  height : 75px;
+  width: inherit;
+}
+bipartite{
+	width:1200px;
+	margin:100px auto;
+}
+svg text{
+	font-size:12px;
+}
+rect{
+	shape-rendering:crispEdges;
+}
+
+.fa-chevron-circle-up{
+  margin-top: -25px;
+}
+
+.fa-3x{
+  color: #525252;
+}
+.fa-3x:focus, .fa-3x:hover{
+  color: #11abb0;
+}
+
+.fa-4x{
+  color: #525252;
+}
+.fa-4x:focus, .fa-4x:hover{
+  color: #11abb0;
+}
+
+h1,h2,h3,h4,p{
+  font-family: 'Lato', sans-serif;
+}
